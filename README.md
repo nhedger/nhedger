@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-Stack developer and open-source enthusiast from Switzerland🇨🇭.
+I'm a Full Stack developer and open-source enthusiast from Switzerland🇨🇭.
 
 I like working with **Laravel**, **Vue** and **Tailwind CSS**.
 
