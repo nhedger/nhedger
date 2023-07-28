@@ -2,7 +2,11 @@
 
 I'm a Full Stack developer and open-source enthusiast from Switzerland🇨🇭.
 
-I like working with **Laravel**, **Vue** and **Tailwind CSS**.
+Here are some of the projects I work on:
+
+- Visual Studio Code extension for InertiaJS: [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia)
+- GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
+- GitHub Action for setting up SOPS: [nhedger/setup-sops](https://github.com/nhedger/setup-sops)
 
 #### Socials
 
