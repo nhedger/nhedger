@@ -1,6 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
+
+#### Socials
+
+[![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nhedger/)
+[![](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/nicolashedger)
 
 ---
 
@@ -18,10 +23,3 @@ Here are some of the projects I work on:
 - ✔️ GitHub Action for setting up SOPS: [nhedger/setup-sops](https://github.com/nhedger/setup-sops)
 - ✔️ GitHub Action for setting up Biome: [biomejs/setup-biome](https://github.com/biomejs/setup-biome)
 - ✔️ GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
-
----
-
-#### Socials
-
-[![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nhedger/)
-[![](https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter)](https://twitter.com/nicolashedger)
