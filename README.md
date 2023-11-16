@@ -4,7 +4,8 @@ I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
 
 Here are some of the projects I work on:
 
-- 🔑 Laravel Sanctum module for Nuxt: [nhedger/nuxt-sanctum](https://github.com/nhedger/nuxt-sanctum)
+- 🔑 Laravel Sanctum integration for Nuxt: [nhedger/nuxt-sanctum](https://github.com/nhedger/nuxt-sanctum)
+- ✉️ Resend integration for Nuxt: [nhedger/nuxt-resend](https://github.com/nhedger/nuxt-resend)
 - 🧩 Visual Studio Code extension for InertiaJS: [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia)
 - 🧩 Visual Studio Code extension for Biome: [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
 - ✔️ GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
