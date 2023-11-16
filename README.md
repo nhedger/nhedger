@@ -2,6 +2,8 @@
 
 I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
 
+---
+
 Here are some of the projects I work on:
 
 #### Nuxt Modules
