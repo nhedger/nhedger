@@ -9,7 +9,9 @@ I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
 
 ---
 
-Here are some of the projects I work on:
+## Projects
+
+Here's a non-exhaustive list of projects that I've created or regularly contribute to.
 
 #### Nuxt Modules
 - 🔑 Laravel Sanctum integration for Nuxt: [nhedger/nuxt-sanctum](https://github.com/nhedger/nuxt-sanctum)
