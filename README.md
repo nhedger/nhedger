@@ -2,6 +2,9 @@
 
 I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
 
+![](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake.svg##gh-light-mode-only)
+![](https://raw.githubusercontent.com/nhedger/nhedger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 [![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nhedger/)
 [![](https://img.shields.io/badge/X.com--_.svg?style=social&logo=x)](https://twitter.com/nicolashedger)
 
