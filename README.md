@@ -22,7 +22,8 @@ Here's a non-exhaustive list of projects that I've created or regularly contribu
 - 🧩 Visual Studio Code extension for InertiaJS: [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia)
 - 🧩 Visual Studio Code extension for Biome: [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
 
-#### GitHub Actions
+#### GitHub
+- 🧹 GitHub CLI extension for cleaning forks: [nhedger/gh-clean-forks](https://github.com/nhedger/gh-clean-forks)
 - ✔️ GitHub Action for setting up SOPS: [nhedger/setup-sops](https://github.com/nhedger/setup-sops)
 - ✔️ GitHub Action for setting up Biome: [biomejs/setup-biome](https://github.com/biomejs/setup-biome)
 - ✔️ GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
