@@ -19,6 +19,7 @@ Here's a non-exhaustive list of projects that I've created or regularly contribu
 - ✉️ Resend integration for Nuxt: [nhedger/nuxt-resend](https://github.com/nhedger/nuxt-resend)
 
 #### VS Code extensions
+- 🧩 Git Reminder: [nhedger/git-reminder](https://github.com/nhedger/git-reminder)
 - 🧩 Visual Studio Code extension for InertiaJS: [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia)
 - 🧩 Visual Studio Code extension for Biome: [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
 
