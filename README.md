@@ -28,3 +28,5 @@ Here's a non-exhaustive list of projects that I've created or regularly contribu
 - ✔️ GitHub Action for setting up SOPS: [nhedger/setup-sops](https://github.com/nhedger/setup-sops)
 - ✔️ GitHub Action for setting up Biome: [biomejs/setup-biome](https://github.com/biomejs/setup-biome)
 - ✔️ GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
+- ✔️ GitHub Action for setting up the Neon CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-neon)
+- ✔️ GitHub Action for triggering deployments on Laravel Cloud: [nhedger/setup-exoscale](https://github.com/nhedger/laravel-cloud-deploy)
