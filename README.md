@@ -13,8 +13,8 @@ I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
 Here's a non-exhaustive list of projects that I've created or regularly contribute to.
 
 
-### Laravel packages
-- 🦄 Unicon - Univeral components for Laravel [unicon-rocks/unicon-laravel](https://github.com/unicon-rocks/unicon-laravel)
+#### Laravel packages
+- 🦄 Unicon - Universal icon component for Laravel [unicon-rocks/unicon-laravel](https://github.com/unicon-rocks/unicon-laravel)
 
 #### Nuxt modules
 - 🔑 Laravel Sanctum integration for Nuxt: [nhedger/nuxt-sanctum](https://github.com/nhedger/nuxt-sanctum)
