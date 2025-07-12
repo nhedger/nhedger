@@ -1,4 +1,4 @@
-Hi, I'm Nicolas Hedger — a full-stack developer and open-source enthusiast based in Switzerland 🇨🇭.
+Hi, I'm **Nicolas Hedger** — a full-stack developer and open-source enthusiast based in Switzerland 🇨🇭.
 
 [![](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=flat-square)](https://www.linkedin.com/in/nhedger/)
 [![](https://img.shields.io/badge/Bluesky-1083fe.svg?style=flat-square)](https://bsky.app/profile/hedger.ch)
