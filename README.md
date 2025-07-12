@@ -1,36 +1,37 @@
-# Hi there 👋
+Hi, I'm Nicolas Hedger — a full-stack developer and open-source enthusiast based in Switzerland 🇨🇭.
 
-I'm a full-stack developer and open-source enthusiast from Switzerland🇨🇭.
+[![](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=flat-square)](https://www.linkedin.com/in/nhedger/)
+[![](https://img.shields.io/badge/Bluesky-1083fe.svg?style=flat-square)](https://bsky.app/profile/hedger.ch)
+[![](https://img.shields.io/badge/X.com-000000.svg?style=flat-square)](https://twitter.com/nicolashedger)
 
-[![](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/nhedger/)
-[![](https://img.shields.io/badge/X.com--_.svg?style=social&logo=x)](https://twitter.com/nicolashedger)
-[![](https://img.shields.io/badge/Bluesky--_.svg?style=social&logo=bluesky)](https://bsky.app/profile/hedger.ch)
-
----
 
 ## Projects
 
-Here's a non-exhaustive list of projects that I've created or regularly contribute to.
+Here are a few projects I created or regularly contribute to.
 
+#### Rust
+
+- 🦀 [Pathman](https://crates.io/crates/pathman) - A cross-platform Rust library for appending and prepending dirs to the user's `PATH` environment variable
 
 #### Laravel packages
-- 🦄 Unicon - Universal icon component for Laravel [unicon-rocks/unicon-laravel](https://github.com/unicon-rocks/unicon-laravel)
+
+- 🦄 [Unicon](https://github.com/unicon-rocks/unicon-laravel) - Universal icon component for Laravel Blade
 
 #### Nuxt modules
-- 🔑 Laravel Sanctum integration for Nuxt: [nhedger/nuxt-sanctum](https://github.com/nhedger/nuxt-sanctum)
-- ✉️ Resend integration for Nuxt: [nhedger/nuxt-resend](https://github.com/nhedger/nuxt-resend)
+- 🔑 [Nuxt Sanctum](https://github.com/nhedger/nuxt-sanctum) - A Laravel Sanctum integration for Nuxt
+- ✉️ [Nuxt Resend](https://github.com/nhedger/nuxt-resend) - A Resend integration for Nuxt
 
 #### VS Code extensions
-- 🧩 Git Reminder: [nhedger/git-reminder](https://github.com/nhedger/git-reminder)
-- 🧩 Visual Studio Code extension for InertiaJS: [nhedger/vscode-inertia](https://github.com/nhedger/vscode-inertia)
-- 🧩 Visual Studio Code extension for Biome: [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
+- 🧩 [Git Reminder](https://github.com/nhedger/git-reminder)
+- 🧩 [Visual Studio Code extension for InertiaJS](https://github.com/nhedger/vscode-inertia)
+- 🧩 [Visual Studio Code extension for Biome](https://github.com/biomejs/biome-vscode)
 
 #### GitHub
-- 🧹 GitHub CLI extension for cleaning forks: [nhedger/gh-clean-forks](https://github.com/nhedger/gh-clean-forks)
-- ✔️ GitHub Action for setting up SOPS: [nhedger/setup-sops](https://github.com/nhedger/setup-sops)
-- ✔️ GitHub Action for setting up Promtool: [nhedger/setup-promtool](https://github.com/nhedger/setup-promtool)
-- ✔️ GitHub Action for setting up Biome: [biomejs/setup-biome](https://github.com/biomejs/setup-biome)
-- ✔️ GitHub Action for setting up the Exoscale CLI: [nhedger/setup-exoscale](https://github.com/nhedger/setup-exoscale)
-- ✔️ GitHub Action for setting up the Neon CLI: [nhedger/setup-neon](https://github.com/nhedger/setup-neon)
-- ✔️ GitHub Action for setting up the Mago CLI: [nhedger/setup-mago](https://github.com/nhedger/setup-mago)
-- ✔️ GitHub Action for triggering deployments on Laravel Cloud: [nhedger/laravel-cloud-deploy](https://github.com/nhedger/laravel-cloud-deploy)
+- 🧹 [`gh-clean-forks`](https://github.com/nhedger/gh-clean-forks) - A GitHub CLI extension for cleaning forks from your account
+- ✔️ [`setup-sops`](https://github.com/nhedger/setup-sops) - A GitHub Action for setting up SOPS
+- ✔️ [`setup-promtool`](https://github.com/nhedger/setup-promtool) - A GitHub Action for setting up Promtool
+- ✔️ [`setup-biome`](https://github.com/biomejs/setup-biome) - A GitHub Action for setting up Biome
+- ✔️ [`setup-exoscale`](https://github.com/nhedger/setup-exoscale) - A GitHub Action for setting up the Exoscale CLI
+- ✔️ [`setup-neon`](https://github.com/nhedger/setup-neon) - A GitHub Action for setting up the Neon CLI
+- ✔️ [`setup-mago`](https://github.com/nhedger/setup-mago) - A GitHub Action for setting up the Mago CLI
+- ✔️ [`laravel-cloud-deploy`](https://github.com/nhedger/laravel-cloud-deploy) - A GitHub Action for triggering deployments on Laravel Cloud
