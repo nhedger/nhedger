@@ -11,6 +11,7 @@ Here are a few projects I created or regularly contribute to.
 
 #### Rust
 
+- 🦀 [EnergiaPro Toolkit](https://github.com/nhedger/energiapro) - A cross-platform Rust SDK and CLI for interacting with the EnergiaPro API
 - 🦀 [Pathman](https://crates.io/crates/pathman) - A cross-platform Rust library for appending and prepending dirs to the user's `PATH` environment variable
 
 #### Laravel packages
